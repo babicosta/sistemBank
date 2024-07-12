@@ -9,6 +9,6 @@ Este código é um sistema de gerenciamento de conta bancária simples.
 - Extrato: Lista todos os depósitos e saques realizados, exibindo o saldo atual da conta.
 - Cria um usuário
 - Cria uma conta
-- Listar contas criadas
+- Lista as contas criadas
 
 O código permite ao usuário interagir com o sistema através de um menu simples, onde pode escolher entre depositar, sacar, verificar o extrato, criar conta, criar usuário, lista contas ou sair do programa.
